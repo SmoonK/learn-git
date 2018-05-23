@@ -7,3 +7,4 @@ remote line
 add develop
 add develop2
 written by develop branch
+written by master
